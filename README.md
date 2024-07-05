@@ -1,4 +1,4 @@
-Simple repo to launch Kos in github codespaces with Colton's latest Docker image
+Simple repo to launch Kos in github codespaces with [Colton's latest Docker image](https://github.com/orgs/kos-builds/packages?repo_name=KallistiOS)
 
 To launch it from github, just click on the "<> Code" button, then "Codespaces" - "Create codespace on main".
 
